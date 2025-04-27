@@ -1,0 +1,32 @@
+# Ignore server artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.db
+*.pid
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore FiveM caches
+cache/
+cache_priv/
+logs/
+mods/
+resources/[local]/
+*.ytd
+*.ydr
+
+# Ignore configs you might not want public
+server.cfg
+server-dev.cfg
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Node modules if you use NPM for resources
+node_modules/

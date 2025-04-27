@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "general": {
+    "serverName": "Vichitra Loka RP"
+  },
+  "server": {
+    "dataPath": "C:/Users/Administrator/Desktop/Fivem-Server/txData/QBCoreFramework_FFAEB4.base/"
+  }
+}
